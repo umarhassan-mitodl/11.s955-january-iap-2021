@@ -1,0 +1,51 @@
+{
+  "term": "January IAP",
+  "year": "2021",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Energy",
+      "Transportation"
+    ],
+    [
+      "Health and Medicine",
+      "Public Health"
+    ],
+    [
+      "Social Science",
+      "Urban Studies",
+      "Transportation Planning"
+    ]
+  ],
+  "legacy_uid": "0831b956-8adb-821c-8224-f6d6a37fdf7d",
+  "instructors": {
+    "content": [
+      "95f5767f-b9db-f54d-469a-9af0b58d5183"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "f9601280-42eb-e2ff-78d7-073b05ae18a8",
+    "website": "11-s955-the-sustainability-response-to-covid-19-january-iap-2021"
+  },
+  "course_title": "The Sustainability Response to COVID-19",
+  "course_description": "This course explores the importance of public transportation to social and economic recovery from the COVID-19 pandemic and seeks to identify approaches to restoring transit ridership, with a focus on Metro Boston. We will attempt to (1) understand whether and how the COVID-19 pandemic can advance sustainable mobility, and specifically the role(s) of public transportation in the COVID-19 recovery process, and (2) identify policies and/or interventions that may encourage pre-COVID transit riders to return to transit and attract net new transit ridership.\n",
+  "department_numbers": [
+    "11"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "11.S955",
+  "course_image_thumbnail": {
+    "content": "685a973e-2c3e-1395-7b80-cdcccdd4e758",
+    "website": "11-s955-the-sustainability-response-to-covid-19-january-iap-2021"
+  },
+  "learning_resource_types": [
+    "Projects"
+  ],
+  "site_uid": "f01e61b3-83da-45b8-a8a9-702ac6912600",
+  "site_short_id": "11.s955-january-iap-2021",
+  "site_url_path": "courses/11-s955-the-sustainability-response-to-covid-19-january-iap-2021",
+  "title": "Course Metadata"
+}

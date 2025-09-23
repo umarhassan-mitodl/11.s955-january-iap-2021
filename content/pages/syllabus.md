@@ -1,0 +1,50 @@
+---
+content_type: page
+description: This section contains a course description and details about the course
+  structure and expectations for 11.S955 The Sustainability Response to COVID-19.
+learning_resource_types: []
+ocw_type: CourseSection
+title: Syllabus
+uid: f5d31aeb-5182-4c70-32b6-d3fb1cc3e932
+---
+
+Course Meeting Times
+--------------------
+
+2 sessions / week, 2 hours / session
+
+Prerequisites
+-------------
+
+None
+
+Course Description / Course Purpose
+-----------------------------------
+
+This course seeks to explore the importance of public transportation to social and economic recovery from the COVID-19 pandemic and identify approaches to restoring transit ridership, using Metro Boston as the focus of our work. We will attempt to (1) understand whether, and how, the COVID-19 pandemic can advance sustainable mobility, and specifically the role(s) of public transportation in the COVID-19 recovery process, and (2) identify policies and/or interventions that may encourage pre-COVID transit riders to return to transit and attract net new transit ridership. Specifically, students will collaborate on drafting a thoughtful response to the Interim/Draft Clean Energy and Climate Plan (the “Draft Interim CECP”) for 2030 issued by the Massachusetts Secretary of Environmental Affairs on December 30, 2020.
+
+Policy Multi-tasking: How to Craft a Sustainability Response to COVID-19 That Also Responds to Climate Change
+-------------------------------------------------------------------------------------------------------------
+
+As we grapple with the urgent, short term need to emerge stronger (and sustainably) from the COVID-19 pandemic, we cannot lose sight of the continuing existential threat of climate change, nor can we ignore the ample evidence that long-term exposure to particulate matter has made residents of many communities (particularly inner core / special and environmental justice communities) more vulnerable to disease, and to COVID-19 in particular. The transportation sector remains the largest contributor to carbon emissions in the Commonwealth of Massachusetts, and the possible flight to auto mobility by prior users of the transit and rail system threatens to worsen those impacts.
+
+Can we frame a Sustainability Response to COVID-19 that also effectively responds to the larger existential question of climate change? Can we chew gum and walk at the same time? Our mission is to craft a response to the Secretary’s Draft Interim CECP that takes into account the recommendations of her report and the realities of pandemic recovery. Our response will encompass, in part, a framework for the Sustainability Response to COVID-19. Can we effectively leverage the need to “build back better” to a plan that both responds to the specific impacts of the pandemic and to the overarching need to reduce the transport sector’s impacts on climate? How do Metro Boston rider/commuter attitudes fit into a plan that is not just valid from a data, science, and experiential basis, but is also capable of securing political and public support to make it actionable?
+
+The Draft Interim CECP is light on addressing the importance of public transportation and offering strategies to encourage mode shift to transit and trail. Can we achieve climate goals (and can we attain a Sustainability Response to COVID-19) without a robust plan to encourage a return of transit ridership by, in part, revisiting how we provide transit services and how we make the urban public realm more congenial to safe zero/low carbon modes like walking and cycling?
+
+Specific short-term activities that can inform the final class “deliverable” include (1) a meta-analysis of recent surveys of current, former, and potential transit riders, geared toward understanding attitudes toward personal mobility and transit specifically, and how they may have evolved, and (2) a similar analysis of global “best practices” in connection with transit operations designed to ensure public health and rider confidence.
+
+Class Structure
+---------------
+
+Each class meeting will include a lecture and/or guest presentation and an interactive discussion of the readings. Active participation in class discussion is an essential component of this class. We all learn from one another. Class discussion will integrate lectures, readings, and collaborations. Conducting the class online is a (hopefully temporary) reality that we need to collectively embrace. We will strive to make our interactions and discussions vibrant, engaging, and unfettered by the artificiality of a virtual classroom experience.
+
+Current Events
+--------------
+
+You are encouraged to read as much current content relevant to the course purpose as you can; content of this sort can be found on several platforms including the _{{% resource_link "b406f241-7736-46d9-9d51-50cd2fef785f" "New York Times" %}}_, the _{{% resource_link "7d9705d3-d220-4b7e-a57a-262c5d0155e1" "Washington Post" %}}_, the _{{% resource_link "0c5cea2d-9288-4bbd-8f78-5df2985adc34" "New Yorker" %}}_, the _{{% resource_link "323a4884-b303-4adc-bbe5-b099cdbc25e0" "Atlantic" %}}_, the _{{% resource_link "effdb2b3-4998-4eb5-b125-d980596ba934" "Boston Globe" %}}_, and _{{% resource_link "6abb780b-f223-4286-926d-98c5b9946c0c" "CommonWealth" %}}_ magazine. I encourage you to check out websites for local transportation advocacy groups, including {{% resource_link "01b2f2bf-9fcb-4095-ade3-0e82e2e8006a" "TransitMatters" %}}, a technical advocacy group known for using data to influence progressive transit-oriented policies.
+
+Course Readings
+---------------
+
+You are expected to have completed the assigned {{% resource_link 802e47b4-505a-b7c4-cd24-6bfb78f24c6d "course readings" %}} before each class, to come to class prepared to discuss the readings, and to use them to inform the collaborations.
