@@ -13,4 +13,4 @@ The course is designed around collaborations focused on specific student deliver
 
 At the conclusion of the class, we hopefully will have fashioned a response to the Draft Interim CECP that takes into account the dual and related issues of “building back better” from COVID-19 (the Sustainability Response) and decreasing the transportation sector’s currently outsized impacts on carbon emissions.
 
-\[The above assignment resulted in a rough outline that later formed the basis for a {{% resource_link "c3cfc928-87c2-4084-bcb7-38f811b707e9" "letter" %}} Jim Aloisi sent as part of the public comment process on the Draft Interim CECP.\]
+\[The above assignment resulted in a rough outline that later formed the basis for a [letter](https://www.mass.gov/doc/interim-2030-cecp-public-comments-letter-attachments/download#page=1079) Jim Aloisi sent as part of the public comment process on the Draft Interim CECP.\]
